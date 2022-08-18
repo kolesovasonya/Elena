@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Belinda';
+    src: url('BelindaRegular.eot');
+    src: local('Belinda'), local('BelindaRegular'),
+        url('BelindaRegular.eot?#iefix') format('embedded-opentype'),
+        url('BelindaRegular.woff2') format('woff2'),
+        url('BelindaRegular.woff') format('woff'),
+        url('BelindaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
